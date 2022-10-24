@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Vlados1996, student of Macquarie University
+- 👋 Hi, I’m @Vlados1996, Vladislav Sobolev, student of Macquarie University
 - 👀 I’m interested in data analysis and marketing
 - 🌱 I’m currently learning Data science
-- 📫 How to reach me vladislav.sobolev@students.mq.edu.au
+- 📫 How to reach me: vladislav.sobolev@students.mq.edu.au
 
 Here I would like to show my portfolio and the skills that I have mastered in a few months of study Data Science in Macquarie University
 
